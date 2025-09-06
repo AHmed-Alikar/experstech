@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "framer-motion": "^12.23.12",
     "googleapis": "^159.0.0",
